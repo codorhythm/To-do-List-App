@@ -24,6 +24,7 @@ The app is useful for the Task management
 
 ![image](https://github.com/codorhythm/To-do-List-App/assets/47503524/d557fde9-103c-466a-b0da-00c0217ab01a)
 
+![image](https://github.com/codorhythm/To-do-List-App/assets/47503524/024d681d-afbc-4f48-9e50-84a869bf4fa1)
 
 
 
